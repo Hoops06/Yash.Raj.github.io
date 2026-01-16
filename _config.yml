@@ -23,7 +23,7 @@ repository               : "Hoops06/Yash.Raj.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile_pic.jpeg"
+  avatar           : "profile_pic1.png"
   name             : "Yash Raj"
   pronouns         : # example: "she/her"  
   bio              : "CS @ Dartmouth"
